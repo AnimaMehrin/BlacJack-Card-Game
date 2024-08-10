@@ -35,9 +35,3 @@ Welcome to the Blackjack game implemented in Java! This console-based applicatio
 - `Keyboard.java`: Handles user input, including reading integers and characters, with built-in error handling.
 - `Game.java`: Contains the main game loop and logic, including dealing cards, handling user actions, and determining the winner.
 
-## Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK) installed on your machine.
-
